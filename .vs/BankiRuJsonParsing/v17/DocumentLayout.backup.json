@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|c:\\inetpub\\wwwroot\\learntogether-master\\bankirujsonparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|c:\\inetpub\\wwwroot\\learntogether-master\\bankirujsonparsing\\candledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|solutionrelative:candledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|c:\\inetpub\\wwwroot\\learntogether-master\\bankirujsonparsing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{091E2B1E-9EAA-4403-B195-446470C7FE87}|BankiRuJsonParsing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAArwFEAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:40:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandleData.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\CandleData.cs",
+              "RelativeDocumentMoniker": "CandleData.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\CandleData.cs",
+              "RelativeToolTip": "CandleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:39:13.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:28:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\LearnTogether-master\\BankiRuJsonParsing\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:28:42.031Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
